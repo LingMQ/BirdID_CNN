@@ -132,7 +132,8 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
 # This is just some way of getting the MNIST dataset from an online location
 # and loading it into numpy arrays. It doesn't involve Lasagne at all.
 
-num_epochs=500
+#num_epochs=500
+num_epochs=10
 
 print("Loading data...")
 X_train, y_train, X_val, y_val, X_test, y_test = load_dataset()
