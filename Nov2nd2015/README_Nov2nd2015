@@ -1,0 +1,15 @@
+manually stop at the 10th epoch iteration.
+
+training data:   60%
+validation data: 20%
+test data:       20%
+
+********** convnet_sx5_fc_2Cate_Ling.py ****************************
+Input data: only TWO categories of birds image. 
+      	    - Two categories is "Carolina Wren" && "Tufted Titmouse"
+	   		- each categories have 98 same size images (128 * 128)
+
+********** convnet_sx5_fc_9Cate_Ling.py ****************************
+Input data: NINE categories of birds image. 
+	   		- each categories have 98 same size images (128 * 128)
+
