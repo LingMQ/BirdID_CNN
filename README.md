@@ -2,6 +2,7 @@
 
 
 --- STRUCTURE ---
+
 Classify a set of 9 category bird images using convolutionary neural network with Lasagne API
 
 Convolutionary Neural Network (CNN) were used to classify photos of 9 species of birds. The dataset had a minimum of 98 images per category.
@@ -17,7 +18,8 @@ Rectified linear units were used as the activation function for both the convolu
 "Same" convolutions were used through zero-padding to keep the input and output dimensions the same.
 
 
---- Result---
+--- RESULT ---
+
 Case 1: Classifying 2 categories of birds 
         (Carolina Wren && Tufted Titmouse)
 Case 2: Classifying 9 categories of birds 
