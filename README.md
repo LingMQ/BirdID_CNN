@@ -26,6 +26,7 @@ Rectified linear units were used as the activation function for both the convolu
 
 Case 1: Classifying 2 categories of birds 
         (Carolina Wren && Tufted Titmouse)
+        
 Case 2: Classifying 9 categories of birds 
         (Caroline Chickadee && Crolina Wren && Downy Wood Pecker && Northern Cardinal && Red Bellied Woodpe && Tufted Titmouse && White Throated Spar && Yellow Rumped Warbler)
 
