@@ -18,6 +18,10 @@ Rectified linear units were used as the activation function for both the convolu
 "Same" convolutions were used through zero-padding to keep the input and output dimensions the same.
 
 
+
+
+
+
 --- RESULT ---
 
 Case 1: Classifying 2 categories of birds 
